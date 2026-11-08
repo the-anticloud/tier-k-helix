@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:9c39b411-2f38-5417-818d-9f4a82084cdb",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T20:31:12Z",
+    "component": {
+      "type": "application",
+      "name": "K_HELIX",
+      "version": "452c48296e09",
+      "bom-ref": "pkg:generic/anticloud/K_HELIX@452c48296e09",
+      "purl": "pkg:generic/anticloud/K_HELIX@452c48296e09",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "452c48296e09f3737b95ae0f62ee157d94cf1086"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/leezythu/Awesome-Harness-Self-Improvement.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
